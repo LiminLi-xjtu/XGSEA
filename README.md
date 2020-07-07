@@ -1,1 +1,1 @@
-# MenglanCai-XGSEA
+# XGSEA
